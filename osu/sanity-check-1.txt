@@ -1,0 +1,2 @@
+flag is inside the osu! beatmap metadata lol. you can check it by using osu! editor. 
+https://imgur.com/juHmghc

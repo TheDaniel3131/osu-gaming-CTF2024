@@ -1,0 +1,9 @@
+https://infiltrating-osu-1.web.osugaming.lol/
+
+hover mouse cursor to the osu!gaming ctf 2024 banner/poster image and inspect element.
+
+https://assets.ppy.sh/user-profile-covers/13336293/e20fc9c84f8f20881bfa0bb70bbcb68c6b50bb25dc96cf608e431a7f9f482c25.jpeg
+
+copy and modify the link and submit.
+
+the flag is osu{tr1v4l_5rc_1n5p3c7_1n_webs1t3}.
