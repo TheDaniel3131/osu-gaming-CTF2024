@@ -1,0 +1,13 @@
+paste this in your osu! about me/user profile section by editing it.
+
+https://gcdnb.pbrd.co/images/OQOba5Z2K0WO.jpg?o=1
+
+
+[img]https://gcdnb.pbrd.co/images/OQOba5Z2K0WO.jpg?o=1[img]
+
+and then inspect element go to sources, you will see i.ppy.sh and then copy that link
+
+https://i.ppy.sh/1524446bd524ecfcf684872241cb13627b91b7af/68747470733a2f2f6763646e622e706272642e636f2f696d616765732f4f514f6261355a324b30574f2e6a70673f6f3d31
+
+
+and you will get the flag: osu{d1d_y0u_p2w???0r_d1d_y0u_f2w_by_u51ng_7h3_f0rum???}
