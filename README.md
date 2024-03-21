@@ -1,3 +1,5 @@
+# osu!gaming CTF 2024
+
 I have been playing osu! way before I started my CTF journey. It was back in 2018 and I had a lot of fun memories in osu!. 
 Unfortunately, I did not enjoy playing osu! like I used to so I play less than before.. do not get me wrong, I still play osu! but I mostly play because I want to have fun and chill.
 
